@@ -1,4 +1,4 @@
 # Weather Dashboard
 The purpose of this assignment was to create a dashboard that fetched data from the OpenWeatherApi.
 ## Tools used 
-HTML,JS, CSS
+HTML, JS, CSS
